@@ -10,13 +10,13 @@
 
 <table class="center">
 <td>
-    <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="290", height="210">
+    <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="300", height="220">
 </td>
 <td>
-    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg" width="290", height="210">
+    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg" width="300", height="220">
 </td>
 <td>
-    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg" width="290", height="210">
+    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg" width="300", height="220">
 </td>
 </table>
 
@@ -78,3 +78,6 @@
 - https://www.youtube.com/watch?v=XdxJ3Kl7PqQ
 
 - [disguise 클러스터 렌더링](https://www.disguise.one/media/7383/disguise_xr_ndisplay_ebook_korean.pdf)
+
+- [실감미디어 제작을 위한 XR 시스템 구성,
+  특징 및 활용 동향](https://www.kca.kr/Media_Issue_Trend/vol52/sub02_01.html)
