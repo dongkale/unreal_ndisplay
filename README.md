@@ -81,3 +81,5 @@
 
 - [실감미디어 제작을 위한 XR 시스템 구성,
   특징 및 활용 동향](https://www.kca.kr/Media_Issue_Trend/vol52/sub02_01.html)
+
+- [다중화면 몰입형 VR 시연](https://www.youtube.com/watch?v=iARhcsI0qxc)
