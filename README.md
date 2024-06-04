@@ -9,13 +9,13 @@
 이러한 시스템은 Powerwall(https://en.wikipedia.org/wiki/Powerwall) 디스플레이처럼 여러 개의 화면을 붙인 것일 수도 있고, Cave(https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment) 가상 환경처럼 여러 대의 프로젝터로 돔, 벽 타일, 굽은 화면과 같은 물리 표면에 3D 환경을 만든 것일 수도 있습니다.
 
 <table class="center">
-<td>
+<td style="border: none;">
     <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="300", height="220">
 </td>
-<td>
+<td style="border: none;">
     <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg" width="300", height="220">
 </td>
-<td>
+<td style="border: none;">
     <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg" width="300", height="220">
 </td>
 </table>
