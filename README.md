@@ -116,3 +116,9 @@
   특징 및 활용 동향](https://www.kca.kr/Media_Issue_Trend/vol52/sub02_01.html)
 
 - [다중화면 몰입형 VR 시연](https://www.youtube.com/watch?v=iARhcsI0qxc)
+
+- [만달로리안은 어떻게 만들어졌나?](https://www.ut-hub.com/tecnologia-ndisplay-the-mandalorian)
+
+- [영화 제작자들에게 새로운 제작 파이프라인을 선사한 'The Mandalorian'](https://www.unrealengine.com/ko/blog/forging-new-paths-for-filmmakers-on-the-mandalorian)
+
+- [영화 제작에서의 nDisplay](https://beforesandafters.com/2019/08/05/i-think-ive-seen-a-glimpse-into-the-future-of-filmmaking)
