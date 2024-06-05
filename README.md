@@ -8,7 +8,7 @@
 
 이러한 시스템은 Powerwall(https://en.wikipedia.org/wiki/Powerwall) 디스플레이처럼 여러 개의 화면을 붙인 것일 수도 있고, Cave(https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment) 가상 환경처럼 여러 대의 프로젝터로 돔, 벽 타일, 굽은 화면과 같은 물리 표면에 3D 환경을 만든 것일 수도 있습니다.
 
-<table class="center">
+<table class="center" style="border:none">
 <td style="border-collapse:collapse;">
     <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="300", height="220">
 </td>
