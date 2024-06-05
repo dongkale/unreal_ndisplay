@@ -1,4 +1,4 @@
-# Unreal nDisplay
+# Unreal Engine nDisplay
 
 ## 1. 개요
 
@@ -9,18 +9,18 @@
 이러한 시스템은 Powerwall(https://en.wikipedia.org/wiki/Powerwall) 디스플레이처럼 여러 개의 화면을 붙인 것일 수도 있고, Cave(https://en.wikipedia.org/wiki/Cave_automatic_virtual_environment) 가상 환경처럼 여러 대의 프로젝터로 돔, 벽 타일, 굽은 화면과 같은 물리 표면에 3D 환경을 만든 것일 수도 있습니다.
 
 <table class="center">
-<td style="border: none;">
+<td style="border-collapse:collapse;">
     <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="300", height="220">
 </td>
-<td style="border: none;">
+<td style="border-collapse:collapse;">
     <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg" width="300", height="220">
 </td>
-<td style="border: none;">
+<td style="border-collapse:collapse;">
     <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg" width="300", height="220">
 </td>
 </table>
 
-## 2. 특징 및 장 단점
+## 2. 특징 및 장 · 단점
 
 ### 특징
 
@@ -115,7 +115,7 @@
 - [실감미디어 제작을 위한 XR 시스템 구성,
   특징 및 활용 동향](https://www.kca.kr/Media_Issue_Trend/vol52/sub02_01.html)
 
-- [다중화면 몰입형 VR 시연](https://www.youtube.com/watch?v=iARhcsI0qxc)
+- [다중화면 몰입형 VR 시연 - 클리닝 히터룸 VR](https://www.youtube.com/watch?v=iARhcsI0qxc)
 
 - [만달로리안은 어떻게 만들어졌나?](https://www.ut-hub.com/tecnologia-ndisplay-the-mandalorian)
 
