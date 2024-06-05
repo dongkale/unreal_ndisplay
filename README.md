@@ -36,7 +36,7 @@
 - VR 및 AR 지원
   - 가상 제작(Virtual Production), 시뮬레이션, 교육, 전시, 테마파크 등 다양한 분야에서 활용됩니다.
   - VR 및 AR 환경에서 몰입형 경험을 제공합니다.
-- 확장성: 추가 디스플레이와 시스템을 쉽게 통합 가능.
+- 확장성
   - 시스템을 쉽게 확장하여 추가 디스플레이와 컴퓨터를 통합할 수 있습니다.
   - 다양한 해상도와 디스플레이 형태를 지원하여 유연한 구성이 가능합니다.
 
@@ -106,11 +106,11 @@
 
 - [nDisplay Technology](https://cdn2.unrealengine.com/Unreal+Engine%2Fndisplay-whitepaper-final-updates%2FnDisplay_Whitepaper_FINAL-f87f7ae569861e42d965e4bffd1ee412ab49b238.pdf)
 
+- [nDisplay Rendering](https://www.youtube.com/watch?v=XdxJ3Kl7PqQ)
+
 - [nDisplay 기술: 리얼타임 콘텐츠의 무한한 확장을 살펴보세요](https://www.unrealengine.com/ko/tech-blog/explore-ndisplay-technology-limitless-scaling-of-real-time-content)
 
 - [실시간 애니메이션으로 팬을 매료시킨 Childish Gambino](https://www.unrealengine.com/ko/spotlights/childish-gambino-mesmerizes-fans-with-real-time-animation)
-
-- https://www.youtube.com/watch?v=XdxJ3Kl7PqQ
 
 - [disguise 클러스터 렌더링](https://www.disguise.one/media/7383/disguise_xr_ndisplay_ebook_korean.pdf)
 
