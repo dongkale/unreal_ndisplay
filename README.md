@@ -65,7 +65,7 @@
 - 네트워크 지연 문제
   - 네트워크 지연으로 인해 동기화 문제가 발생할 수 있습니다.
   - 네트워크 성능이 중요한 역할을 하며, 지연을 최소화하기 위한 추가 설정이 필요합니다.
-  - 운전 시뮬레이션에는 적합하지 않음.
+  - 운전 시뮬레이션에는 적합하지 않을 수 있습니다.
 
 ## 3. 활용 사례
 
@@ -104,15 +104,15 @@
 
 - [Unreal nDisplay](https://dev.epicgames.com/documentation/ko-kr/unreal-engine/ndisplay-overview-for-unreal-engine?application_version=5.3)
 
-- [nDisplay Technology](https://cdn2.unrealengine.com/Unreal+Engine%2Fndisplay-whitepaper-final-updates%2FnDisplay_Whitepaper_FINAL-f87f7ae569861e42d965e4bffd1ee412ab49b238.pdf)
+- [Unreal nDisplay Technology](https://cdn2.unrealengine.com/Unreal+Engine%2Fndisplay-whitepaper-final-updates%2FnDisplay_Whitepaper_FINAL-f87f7ae569861e42d965e4bffd1ee412ab49b238.pdf)
 
-- [nDisplay Rendering](https://www.youtube.com/watch?v=XdxJ3Kl7PqQ)
+- [Unreal nDisplay Rendering](https://www.youtube.com/watch?v=XdxJ3Kl7PqQ)
 
-- [nDisplay 기술: 리얼타임 콘텐츠의 무한한 확장을 살펴보세요](https://www.unrealengine.com/ko/tech-blog/explore-ndisplay-technology-limitless-scaling-of-real-time-content)
+- [리얼타임 콘텐츠의 무한한 확장을 살펴보세요](https://www.unrealengine.com/ko/tech-blog/explore-ndisplay-technology-limitless-scaling-of-real-time-content)
 
 - [실시간 애니메이션으로 팬을 매료시킨 Childish Gambino](https://www.unrealengine.com/ko/spotlights/childish-gambino-mesmerizes-fans-with-real-time-animation)
 
-- [disguise 클러스터 렌더링](https://www.disguise.one/media/7383/disguise_xr_ndisplay_ebook_korean.pdf)
+- [Disguise 클러스터 렌더링](https://www.disguise.one/media/7383/disguise_xr_ndisplay_ebook_korean.pdf)
 
 - [실감미디어 제작을 위한 XR 시스템 구성,
   특징 및 활용 동향](https://www.kca.kr/Media_Issue_Trend/vol52/sub02_01.html)
