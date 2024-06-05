@@ -131,6 +131,6 @@
 
 - [영화 제작에서의 nDisplay](https://beforesandafters.com/2019/08/05/i-think-ive-seen-a-glimpse-into-the-future-of-filmmaking)
 
-- [PXO에서 ‘Star Trek: Discovery’를 위해 실사 ‘Holodeck’을 제작한 이유](https://www.unrealengine.com/ko/spotlights/why-pxo-created-a-real-life-holodeck-for-star-trek-discovery)
+- [PXO에서 'Star Trek: Discovery' 위해 실사 'Holodeck' 제작한 이유](https://www.unrealengine.com/ko/spotlights/why-pxo-created-a-real-life-holodeck-for-star-trek-discovery)
 
 - [언리얼 엔진 기반의 버추얼 프로덕션으로 Amazon의 Fallout 시리즈에 생명을 불어넣은 Magnopus](https://www.unrealengine.com/ko/spotlights/magnopus-brings-amazon-s-fallout-series-to-life-with-virtual-production-powered-by-unreal-engine)
