@@ -96,6 +96,12 @@
 - 디버깅 방법: nDisplay 시스템의 문제 해결 및 디버깅 방법.
 - https://www.notion.so/Unreal-nDisplay-ce45fec496ea461e81d8dc1accf0f7c0
 
+<table class="center">
+<td>
+    <img src="./nDisplay_architecturepng.png">
+</td>
+</table>
+
 ## 5. 결론
 
 언리얼 nDisplay는 다양한 산업 분야에서 대규모 디스플레이 시스템을 구축하고, 몰입형 경험을 제공하는 데 매우 유용한 도구입니다. 이를 통해 사용자들은 더욱 생생하고 실감 나는 시각적 경험을 즐길 수 있습니다. 높은 확장성과 유연한 구성 옵션을 제공하지만, 초기 설정의 복잡성과 높은 구축 비용, 하드웨어 요구 사항 등을 고려해야 합니다. 이를 통해 가상 제작, 시뮬레이션, 교육 등 다양한 분야에서 효과적으로 활용할 수 있습니다.
