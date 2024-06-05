@@ -125,7 +125,7 @@
 
 - [다중화면 몰입형 VR 시연 - 클리닝 히터룸 VR](https://www.youtube.com/watch?v=iARhcsI0qxc)
 
-- [만달로리안은 어떻게 만들어졌나?](https://www.ut-hub.com/tecnologia-ndisplay-the-mandalorian)
+- ['The Mandalorian'은 어떻게 만들어졌나?](https://www.ut-hub.com/tecnologia-ndisplay-the-mandalorian)
 
 - [영화 제작자들에게 새로운 제작 파이프라인을 선사한 'The Mandalorian'](https://www.unrealengine.com/ko/blog/forging-new-paths-for-filmmakers-on-the-mandalorian)
 
