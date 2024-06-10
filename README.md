@@ -10,25 +10,25 @@
 
 <table class="center" style="border:none">
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_01.jpg" width="300", height="220">
+    <img src="images/ndisplay_01.jpg" width="330", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_02.jpeg" width="300", height="220">
+    <img src="images/ndisplay_02.jpeg" width="330", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_03.jpeg" width="300", height="220">
+    <img src="images/ndisplay_03.jpeg" width="330", height="220">
 </td>
 </table>
 
 <table class="center" style="border:none">
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_04.jpg" width="300", height="220">
+    <img src="images/ndisplay_04.jpg" width="330", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_05.jpg" width="300", height="220">
+    <img src="images/ndisplay_05.jpg" width="330", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="images/ndisplay_06.webp" width="300", height="220">
+    <img src="images/ndisplay_06.webp" width="330", height="220">
 </td>
 </table>
 
