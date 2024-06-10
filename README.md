@@ -10,13 +10,25 @@
 
 <table class="center" style="border:none">
 <td style="border-collapse:collapse;">
-    <img src="https://i.redd.it/k3l5agjumz6a1.jpg" width="300", height="220">
+    <img src="images/ndisplay_01.jpg" width="300", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg" width="300", height="220">
+    <img src="images/ndisplay_02.jpeg" width="300", height="220">
 </td>
 <td style="border-collapse:collapse;">
-    <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg" width="300", height="220">
+    <img src="images/ndisplay_03.jpeg" width="300", height="220">
+</td>
+</table>
+
+<table class="center" style="border:none">
+<td style="border-collapse:collapse;">
+    <img src="images/ndisplay_04.jpg" width="300", height="220">
+</td>
+<td style="border-collapse:collapse;">
+    <img src="images/ndisplay_05.jpg" width="300", height="220">
+</td>
+<td style="border-collapse:collapse;">
+    <img src="images/ndisplay_06.webp" width="300", height="220">
 </td>
 </table>
 
@@ -134,3 +146,8 @@
 - [PXO에서 'Star Trek: Discovery' 위해 실사 'Holodeck' 제작한 이유](https://www.unrealengine.com/ko/spotlights/why-pxo-created-a-real-life-holodeck-for-star-trek-discovery)
 
 - [언리얼 엔진 기반의 버추얼 프로덕션으로 Amazon의 Fallout 시리즈에 생명을 불어넣은 Magnopus](https://www.unrealengine.com/ko/spotlights/magnopus-brings-amazon-s-fallout-series-to-life-with-virtual-production-powered-by-unreal-engine)
+
+<!-- - images
+  - https://i.redd.it/k3l5agjumz6a1.jpg
+  - https://d3kjluh73b9h9o.cloudfront.net/original/4X/c/4/2/c4254d144eec812de9ce28185c241b0572e5325f.jpeg
+  - https://d3kjluh73b9h9o.cloudfront.net/original/4X/5/6/1/56155a73ee38c0f399a5d05a42b68905c65fed15.jpeg -->
