@@ -110,7 +110,7 @@
 
 <table class="center">
 <td>
-    <img src="./nDisplay_architecturepng.png">
+    <img src="images/nDisplay_architecturepng.png">
 </td>
 </table>
 
